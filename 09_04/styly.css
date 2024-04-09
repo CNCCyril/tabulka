@@ -25,10 +25,6 @@ th:hover {
     background-color: yellow;
 }
 
-tr:hover {
-    scale: 10%;
-}
-
 th :first-child {
     background-color: white;
 }
